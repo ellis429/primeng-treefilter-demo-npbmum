@@ -1,0 +1,65 @@
+{
+    "data": 
+    [
+        {
+            "label": "Alarm Detection",
+            "data": "Alarm Detection Folder",
+            "expandedIcon": "pi pi-exclamation-triangle",
+            "collapsedIcon": "pi pi-exclamation-triangle",
+            "children": [{
+                    "label": "ADC Alarm",
+                    "data": "ADC Alarm",
+                    "icon": "pi pi-cog"
+                },
+                {
+                    "label": "FDC Alarm",
+                    "data": "FDC Alarm",
+                    "icon": "pi pi-cog"
+                },{
+                    "label": "Alarm System",
+                    "data": "Alarm System",
+                    "icon": "pi pi-cog"
+                }]
+        },
+        {
+            "label": "Show Chart",
+            "data": "Show Chart",
+            "expandedIcon": "pi pi-chart-line",
+            "collapsedIcon": "pi pi-chart-line",
+            "children": [{
+                "label": "ADC Chart",
+                "data": "ADC Chart",
+                "icon": "pi pi-cog"
+            },
+            {
+                "label": "Intime ADC Chart",
+                "data": "Intime ADC Chart",
+                "icon": "pi pi-cog"
+            },{
+                "label": "FDC UChart",
+                "data": "FDC UChart",
+                "icon": "pi pi-cog"
+            }]
+        },
+        {
+            "label": "Common",
+            "data": "Common",
+            "expandedIcon": "pi pi-align-justify",
+            "collapsedIcon": "pi pi-align-justify",
+            "children": [{
+                "label": "Search BKM",
+                "data": "ADC Chart",
+                "icon": "pi pi-cog"
+            },
+            {
+                "label": "Send Mail",
+                "data": "Intime ADC Chart",
+                "icon": "pi pi-cog"
+            },{
+                "label": "Create Case to Case Center",
+                "data": "FDC UChart",
+                "icon": "pi pi-cog"
+            }]
+        }
+    ]
+}
